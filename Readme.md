@@ -9,6 +9,6 @@
     * Aller dans le fichier DB et lancer le script de la base de données dans phpMyAdmin.
     *  Aller Ensup/src/main/java/eu.ensup/dao/BaseDao.java et modifier vos identifiants de connexion this.login avec votre login et this.password avec votre password
     *  Aller a la racine du projet dans \Ensup et ouvrir un cmd et lancer la commande "mvn clean package"
-    *  Aller dans le ficher \Ensup et lancer la commande "mvn tomcat:run"
+    *lancer le serveur tomcat9 et déployer le war dans le target  
   * Lancement
     * une fois dans le navigateur le login est directeur@gmail.com et le mot de passe est directeur
